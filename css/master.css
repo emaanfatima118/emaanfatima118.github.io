@@ -7,13 +7,13 @@
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
 
-  a:hover {color: red;
+  a:hover {color: green;
     /* set the text color to red here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
 
   body {
-    background-color: beige;
+    background-color: lightpink;
     /* set the background color here */
      color:black; /* set the text color to black here */
     font-family: Ariel,Helvetica,sans-serif;    /* set the font here */
